@@ -7,7 +7,7 @@ return {name: "Dwayne The Rock Johnson"}
 end
 
 def monopoly
-	monopoly = {}
+	monopoly = {railroads: {}}
 
 end
 
